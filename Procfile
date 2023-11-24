@@ -1,0 +1,1 @@
+web: java -Dserver.post=$PORT -jar target/ProjetNBA-0.0.1-SNAPSHOT.jar
